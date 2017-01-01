@@ -107,6 +107,11 @@ iframe {
 	margin-left: 15px;
 }
 
+.bio img {
+	float: left;
+	margin: 10px;
+}
+
 /************************
 	Footer
 *************************/
