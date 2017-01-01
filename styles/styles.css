@@ -88,6 +88,25 @@ iframe {
 	width: 500px;
 }
 
+/*** Bio ***/
+.bio {
+	overflow:hidden;
+	margin-top: 15px;	
+	display:block;
+	width: 960px;
+	background-color: #FCF5FA;
+	border-radius: 30px;
+	text-align: justify;
+
+}
+.bio p {
+	margin-left: 210px;
+	padding-right: 25px;
+}
+.bio h2 {
+	margin-left: 15px;
+}
+
 /************************
 	Footer
 *************************/
@@ -95,5 +114,6 @@ iframe {
 footer {
 	clear:both;
 	text-align: right;
+	margin-top: 20px;
 }
 
